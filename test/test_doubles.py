@@ -30,4 +30,4 @@ class SpanTestDouble:
     """
     def __init__(self,text,label):
         self.text = text
-        self.label = label
+        self.label_ = label
